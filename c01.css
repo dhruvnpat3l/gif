@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+}
+.gif{
+
+    padding: 10px;
+    margin:10px;
+    background-color: yellow;
+    display:inline-block;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    font-display:unset;
+}
