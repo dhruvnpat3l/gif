@@ -1,11 +1,11 @@
 body{
-    background-color: aqua;
+    background-color: #fccd04;
 }
 .gif{
 
     padding: 10px;
     margin:10px;
-    background-color: yellow;
+    background-color: #feffff;
     display:inline-block;
     font-family:'Courier New', Courier, monospace;
     text-align: center;
